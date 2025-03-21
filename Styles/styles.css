@@ -1,0 +1,325 @@
+.menu01{
+    display: flex;
+    justify-content: flex-end;
+}
+
+a{
+    margin: 10px;
+}
+
+.contenedor01{
+    display: flex;
+    background-color: #f5cb00;
+    height: 100px;
+    justify-content:space-between;
+    align-items:center;
+    padding: 0 20px;
+}
+
+.img02{
+    margin: 60px;
+}
+
+.contenedor02{
+    display: flex;
+ 
+}
+
+.contenedor03{
+    display: inline;
+}
+
+.boton01{
+   background: #f5cb00;
+   border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.div2{
+    display: flex;
+    align-items: center;
+    background-color: rgb(230,230,230,255) ;
+    width: 1070px;
+    height: 400px;
+}
+.p2{
+    width: 300px;
+}
+.div3{
+    margin: 20px;
+
+
+}
+.img03{
+    margin-right: 30px;
+}
+
+.caja03{
+    background-color: #f5cb00;
+    display: flex;
+    align-items: center;
+}
+
+.boton03{
+    background: black;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.boton02{
+    background-color: rgb(230,230,230,255);
+    border: none;
+}
+
+.parrafo03{
+    width: 300px;
+}
+
+.img05{
+    margin-top: -100px;
+    margin-left: 300px;
+}
+
+.caja04{
+    background-color: rgb(230,230,230,255);
+    margin: 90px;
+}
+
+.message{
+    height: 100px;
+}
+
+.div06{
+    background-color: black;
+    color: white;
+    border-color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 100px;
+    max-width: 30%;
+}
+
+input[type="text"] {
+    background-color: black;
+    border-color: white;
+  }
+  
+.caja06{
+    display: flex;
+}
+
+.titulo05{
+    color: #f5cb00;
+    font-size: 30px;
+}
+
+.titulo02{
+    color: #f5cb00;
+}
+
+.titulo04{
+    color: #f5cb00;
+    font-size: 50px;
+}
+
+.boton05{
+    background: black;
+    border: none;
+     padding: 10px 15px;
+     font-weight: bold;
+     cursor: pointer;
+     color: white;
+}
+
+.section9{
+    background-color: #f5cb00;
+}
+
+.tituloF{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 55px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+.parrafoF{
+    text-align: center;
+    line-height: 0px;
+}
+
+.boton8{
+    font-weight: bold;
+    background-color: #040404;
+    border: none;
+    cursor: pointer;
+    text-decoration:none;
+    color: #faf6f6;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+
+    margin-top: 40px;
+}
+
+.img11{
+    display: block;
+    margin: 0 auto;
+}
+
+.section5{
+    background-color: #000000;
+height: 800px;
+
+}
+
+.titulo4{
+    color: #f5cb00;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+
+
+
+.parrafo4{
+    color: white;
+    max-width: 190%;
+    text-align: center;
+}
+
+
+.img08{
+
+    display: block;
+    margin: 0 auto;
+}
+.boton4{
+    background-color: #f5cb00;
+    border-color: #f5cb00;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -20px;
+    display: block;
+    margin: 0 auto;
+
+    margin-top: 40px;
+}
+
+.section6{
+    background-color: white;
+    
+}
+
+
+
+.todo{
+    display:flex;
+    margin: 50px;
+}
+
+.titulo6{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 150px 0px 0px 0px;
+font-size: 50px;
+width: 600px;
+line-height: 55px;
+font-weight: bold;
+}
+
+.boton6{
+    background-color: #f5cb00;
+    border-color: #f5cb00;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -20px;
+    
+    margin-top: 40px;
+}
+
+.texladoD{
+    margin: 30px;
+}
+
+.parrafo5{
+    max-width: 50%;
+}
+
+.section7{
+    background-color: #C3C3C3;
+    display:flex;
+    padding: 35px 35px 5px 5px;
+    
+}
+
+
+.titulo7{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 150px 0px 0px 0px;
+    font-size: 50px;
+    width: -100px;
+    line-height: 55px;
+    font-weight: bold;
+}
+
+.boton7{
+    background-color: #f5cb00;
+    border-color: #f5cb00;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -20px;
+    
+    margin-top: 40px;
+}
+
+.textoladoI{
+    margin:30px;
+}
+
+
+.parrafo6{
+    max-width: 45%;
+}
+
+.menu03{
+    background-color: #000000;
+    color: #f5cb00;
+
+}
+
+.abajo{
+    color: #f5cb00;
+    text-decoration: none;
+}
+.linea{
+    background-color: #faf6f6;
+    width: 1000px;
+    height: 5px;
+}
+
+.titulo02{
+    font-size: 50px;
+}
+
+.titulo03{
+    font-size: 50px;
+}
+
+.final{
+    background-color: #000000;
+    color: white;
+    border-top: white;
+}
+
